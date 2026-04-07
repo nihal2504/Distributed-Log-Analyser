@@ -1,4 +1,1 @@
-pyspark==3.5.0
-findspark
-pandas
-matplotlib
+This file is deprecated. Please use requirements.txt instead.
